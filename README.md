@@ -1,5 +1,10 @@
 ## My personal website static
 
-My Personal Website Static Version. Django with live form coming soon..
+My Personal Website Static Version.
+This is the place where I play with technologies.
 
-Live Demo: http://www.ruojunhong.io
+Now I've tried:
+
+AngularJS
+React
+Node.js
